@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": "https://e1.pxfuel.com/desktop-wallpaper/743/820/desktop-wallpaper-new-batman-film-coming-2021-with-younger-dark-knight-batman-dc-universe-comic.jpg"
     },
     {
       "id": "dc-superman",
@@ -166,6 +167,24 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "YFtSCcg",
+      "superhero": "IVAN",
+      "publisher": "DC Comics",
+      "alter_ego": "Ingeniero en Sistemas",
+      "first_appearance": "SENA 2012 - 2014",
+      "characters": "ADSI, ING",
+      "alt_img": null
+    },
+    {
+      "id": "1UH2a2z",
+      "superhero": "Katty",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Atención a la primera infancia",
+      "first_appearance": "Sena - 2022",
+      "characters": "Doctora, Miss, Profesora",
+      "alt_img": "https://st2.depositphotos.com/1518767/8469/i/450/depositphotos_84699678-stock-photo-teacher-teaching-her-classroom-of.jpg"
     }
   ]
 }
